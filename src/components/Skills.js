@@ -107,9 +107,9 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+              Full-Stack Web Development (HTML, CSS, JavaScript, React, Node.js) and graphic design,
                 <br />
-                Lorem Ipsum has been the industry's standard dummy text.
+                crafting responsive, user-friendly websites.
               </p>
 
               {/* Technical Skills */}

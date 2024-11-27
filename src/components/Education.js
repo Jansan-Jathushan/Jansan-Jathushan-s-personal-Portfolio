@@ -142,19 +142,19 @@ export const EducationTimeline = () => {
           <div style={timelineStyle}>
             <div style={lineStyle} />
             <TimelineItem
-              year="2024"
+              year="2024(05-11)"
               title="Uki Coding School"
               description="Currently enrolled at Uki Coding School, focusing on Full Stack Web development. The curriculum covers HTML, CSS, JavaScript, Java, React, and Node.js."
             />
             <TimelineItem
-              year="2023"
-              title="Technical College"
-              description="Pursued NVQ-4 Certification in ICT Technician at Technical College of Jaffna. Gained proficiency in programming languages and Microsoft Office management."
+              year="2013-2021"
+              title="High School"
+              description="I am an alumnus of J/Hartley College, where I gained a solid foundation in education and a passion for growth and excellence."
             />
             <TimelineItem
-              year="2021"
-              title="High School"
-              description="Attended J/Uduvil Girls' College, excelled in mathematics, art, and computer science. Participated in various extracurricular activities."
+              year="2008-2012"
+              title="Elementary School"
+              description="I completed my elementary education at J. Kaladdy RC Boys School, where I developed a strong academic foundation and a love for learning.."
             />
           </div>
         </div>
@@ -166,9 +166,9 @@ export const EducationTimeline = () => {
           <div style={timelineStyle}>
             <div style={lineStyle} />
             <TimelineItem
-              year="2023"
-              title="IT Support Technician"
-              description="I completed an internship as a computer technician, gaining valuable hands-on experience in diagnosing and resolving Microsoft Office issues. During this internship, I worked with a team to manage public communications and database access."
+              year="2023(08-12)"
+              title="ILTES"
+              description="I studied IELTS at the British College in Navalarmadam, where I enhanced my English language skills and prepared for international academic and professional opportunities."
             />
           </div>
         </div>

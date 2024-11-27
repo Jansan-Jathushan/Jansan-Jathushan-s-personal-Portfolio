@@ -126,13 +126,13 @@ export const AboutSection  = () => {
         </div>
         <div style={styles.content}>
           <h1 style={styles.title}>About</h1>
-          <p style={styles.email}>johnsmith@example.com</p>
+          <p style={styles.email}>jansanjathushan@gmail.com</p>
           <p style={styles.description}>
-            Graphic Designer with over 10 years of experience specializing in UI Development, management for both online and print media. I can implement effective IT strategies at local and global levels. My objective will be to maintain and upgrade existing websites and applications.
+          I am a skilled Full-Stack Web Developer with expertise in both front-end and back-end technologies. I specialize in building dynamic, user-friendly websites and applications, using modern frameworks and tools. With a strong foundation in web development, I also have a keen eye for graphic design, creating visually appealing and intuitive interfaces. My passion lies in crafting seamless web experiences, from conceptualization to deployment, ensuring high-quality and responsive solutions.
           </p>
           <div style={styles.location}>
             <p>POSTAL ADDRESS:</p>
-            <p>4223 State Road 23</p>
+            <p>ST/Thomas Lane, Beach Road, Point Pedro</p>
           </div>
         </div>
         
