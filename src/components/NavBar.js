@@ -104,9 +104,17 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="/">
-            <img src={logo} alt="Logo" />
-          </Navbar.Brand>
+        <Navbar.Brand href="/">
+  <img
+    src="https://i.ibb.co/Lts4xG5/jj.png"
+    alt="Logo"
+    style={{
+      width: '100px', /* Adjust the width as needed */
+      height: '100px', /* Adjust the height as needed */
+      objectFit: 'contain', /* Ensures the image maintains its aspect ratio */
+    }}
+  />
+</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
           </Navbar.Toggle>
